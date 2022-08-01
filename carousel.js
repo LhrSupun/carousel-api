@@ -1,6 +1,6 @@
 const slides = [
   {
-    image: "https://picsum.photos/id/1/600/400",
+    image: "https://picsum.photos/id/4/600/400",
     title: "Image 1",
     subTitle: "Secondary text",
   },
@@ -10,7 +10,7 @@ const slides = [
     subTitle: "Secondary text",
   },
   {
-    image: "https://picsum.photos/id/2/600/400",
+    image: "https://picsum.photos/id/8/600/400",
     title: "Image 3",
     subTitle: "Secondary text",
   },
@@ -20,12 +20,12 @@ const slides = [
     subTitle: "Secondary text",
   },
   {
-    image: "https://picsum.photos/id/237/600/400",
+    image: "https://picsum.photos/id/78/600/400",
     title: "Image 5",
     subTitle: "Secondary text",
   },
   {
-    image: "https://picsum.photos/id/4/600/400",
+    image: "https://picsum.photos/id/8/600/400",
     title: "Image 6",
     subTitle: "Secondary text",
   },
@@ -45,7 +45,7 @@ const slides = [
     subTitle: "Secondary text",
   },
   {
-    image: "https://picsum.photos/id/9/600/400",
+    image: "https://picsum.photos/id/90/600/400",
     title: "Image 10",
     subTitle: "Secondary text",
   },
@@ -55,7 +55,7 @@ const slides = [
     subTitle: "Secondary text",
   },
   {
-    image: "https://picsum.photos/id/8/600/400",
+    image: "https://picsum.photos/id/75/600/400",
     title: "Image 13",
     subTitle: "Secondary text",
   },
